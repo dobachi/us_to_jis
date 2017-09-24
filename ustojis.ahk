@@ -16,3 +16,5 @@
 *+::send, :
 +*::send, "
 *vkBA::send, '
+VKF4::send, {``}
++VKF4::Send,{~}
